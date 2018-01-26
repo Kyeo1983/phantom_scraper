@@ -40,7 +40,7 @@ Recall that at the end of these module executions, **Knightfall** will run.
 
 Customization
 ===============
-##Parameters
+### Parameters
 
 The execution can take these arguments via the command prompt. The parameters goes into the respective variable that can be referenced from the modules and steps during runtime.
 
@@ -61,7 +61,7 @@ phantomjs.exe origin.js -t 200 Scan
 ```
 
 
-###Modules
+### Modules
 
 Create your modules into **/utility/**. You can update **knightfall.js** to exit your webscrape website accordingly. Go ahead to add more modules with similar structure as the example **scan.js** and **logo.js**.
 
@@ -77,7 +77,7 @@ module.exports = { steps: steps, params: params }
 
 The **steps** array is the list of steps associated with this module, and this is where you keep adding functions that will eventually be ran one by one.
 
-##Belt
+### Belt
 
 After you're done defining your module, add it to **/utility/belt.js** by defining a command prompt argument name, to the module's steps.
 ```
@@ -90,8 +90,8 @@ Sample Output
 =====
 Output file
 
-<img width="600px" src="https://github.com/Kyeo1983/scrape_wiki_linkedin_links/master/logs/linksoutput.jpg"/>
+<img width="600px" src="https:///raw.githubusercontent.com/Kyeo1983/scrape_wiki_linkedin_links/master/logs/linksoutput.jpg"/>
 
 Screenshot
 
-<img width="330px" src="https://github.com/Kyeo1983/scrape_wiki_linkedin_links/master/logs/20180126_1011h30s_loaded.jpg"/>
+<img width="330px" src="https:///raw.githubusercontent.com/Kyeo1983/scrape_wiki_linkedin_links/master/logs/20180126_1011h30s_loaded.jpg"/>
