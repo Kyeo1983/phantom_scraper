@@ -90,8 +90,8 @@ Sample Output
 =====
 Output file
 
-<img width="600px" src="https://raw.githubusercontent.com/Kyeo1983/scrape_wiki_linkedin_links/master/logs/linksoutput.jpg"/>
+<img width="800px" src="https://raw.githubusercontent.com/Kyeo1983/scrape_wiki_linkedin_links/master/logs/linksoutput.jpg"/>
 
 Screenshot
 
-<img width="330px" src="https://raw.githubusercontent.com/Kyeo1983/scrape_wiki_linkedin_links/master/logs/20180126_1011h30s_loaded.jpg"/>
+<img width="530px" src="https://raw.githubusercontent.com/Kyeo1983/scrape_wiki_linkedin_links/master/logs/20180126_1011h30s_loaded.jpg"/>
